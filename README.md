@@ -5,7 +5,9 @@ In this React project tutorial, you will learn to build a weather application us
 ✏️ Slobodan Gajic created this course. Check out his channel: https://www.youtube.com/c/CodewithSloba
 
 💻 Code: https://github.com/bobangajicsm/react-weather-app
+
 💻 OpenWeather API: https://openweathermap.org/
+
 💻 GeoDB Cities API: https://rapidapi.com/wirefreethought/api/geodb-cities/
 
 ⭐️ Course Contents ⭐️
